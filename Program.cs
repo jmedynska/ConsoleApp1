@@ -2,5 +2,5 @@
 Console.WriteLine("Hello, World!");
 //Code was edited in Github
 
-//Code was added in VS
+//Code was added in VS 2022
 
